@@ -33,13 +33,13 @@ UltraEdit-Clone/
 
  ## 🔧 What I learned:
 
-How to build a custom navigation bar using display: flex
+-How to build a custom navigation bar using display: flex
 
-How to structure a main content layout using display: grid
+-How to structure a main content layout using display: grid
 
-Responsive layout design and content alignment
+-Responsive layout design and content alignment
 
-Organizing HTML and CSS files for clean code structure
+-Organizing HTML and CSS files for clean code structure
 
 
 ## 📸 Screenshot
