@@ -17,7 +17,8 @@ This project was built to practice front-end development and improve web design 
 UltraEdit-Clone/
 ├── index.html
 ├── style.css
-└── images/
+├── images/
+│ └── Screenshot (23).png
 
 
 
