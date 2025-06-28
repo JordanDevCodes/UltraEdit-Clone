@@ -38,7 +38,7 @@ UltraEdit-Clone/
 
 Here’s a preview of the UltraEdit Clone:
 
-![Screenshot](./images/Screenshot%20(23).png)
+![Screenshot](./images/screenshot.png)
 
 ## 📌 Note
 
