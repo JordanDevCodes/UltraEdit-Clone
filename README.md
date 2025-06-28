@@ -30,6 +30,18 @@ UltraEdit-Clone/
 - Learned Grid to create structured and responsive layouts
 - Clean and organized code structure
 
+
+ ## 🔧 What I learned:
+
+How to build a custom navigation bar using display: flex
+
+How to structure a main content layout using display: grid
+
+Responsive layout design and content alignment
+
+Organizing HTML and CSS files for clean code structure
+
+
 ## 📸 Screenshot
 
 Here’s a preview of the UltraEdit Clone:
