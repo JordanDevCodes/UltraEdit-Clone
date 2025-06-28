@@ -30,9 +30,12 @@ UltraEdit-Clone/
 - Learned Grid to create structured and responsive layouts
 - Clean and organized code structure
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-![Homepage Screenshot](./images/Screenshot(23).png)
+Here’s a preview of the UltraEdit Clone:
+
+![Screenshot](./images/Screenshot%20(23).png)
+
 
 ## 📌 Note
 
