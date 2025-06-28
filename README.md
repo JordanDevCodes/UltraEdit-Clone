@@ -32,7 +32,7 @@ UltraEdit-Clone/
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](./images/Screenshot(23).png)
+![UltraEdit Clone](./images/screenshot.png)
 
 ## 📌 Note
 
