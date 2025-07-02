@@ -40,6 +40,17 @@ Here’s a preview of the UltraEdit Clone:
 
 ![Screenshot](./images/screenshot.png)
 
+
+## 🚀 Getting Started
+
+To view the project locally:
+
+```bash
+git clone https://github.com/JordanDevCodes/UltraEdit-Clone.git
+cd UltraEdit-Clone
+start index.html
+
+
 ## 📌 Note
 
 This project is created for learning and demonstration purposes only. It is not affiliated with or endorsed by UltraEdit.
